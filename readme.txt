@@ -6,5 +6,4 @@ you know how to help me
 =======
 ehzhicheng is also good,is that all right
 >>>>>>> f7cda7e9aece9f1ebdc8fa081ff04cc57484d5d9
-creating a new branch is quick.
-
+creating a new branch is quick AND simple.
